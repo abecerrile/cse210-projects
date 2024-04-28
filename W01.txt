@@ -1,0 +1,9 @@
+A Version Control System is the process of recording all the changes an employee has made to a file or a set of files. To be more specific, this system mainly tracks the changes over time, which allows numerous people to work on different projects at the same time.
+
+One of the benefits of a Version Control System is that it facilitates quality control or testing of code due to its versatility in sharing files with other team members all over the world without the necessity of being physically present. Additionally, it provides the ability to back up each file committed and uploaded to Git. As we may know, working with code requires a lot of information and ongoing progress, so whenever someone accidentally deletes a part of the code, it can be recovered more easily than something that was stored in a local file on the computer.
+
+An application example of the Version Control System is the one we use everyday, by commiting our work and sharing it in a public space so the instructor, teacher assistant, and even graders can determine the quality of the code to then provide feedback in order to help others grow. 
+
+When committing the files, this Git command will allow us to update all of our changes and show the comments to others who may need to work on or check our code.
+
+git commit -m "Fixed networking issues by updating the IP address"s
